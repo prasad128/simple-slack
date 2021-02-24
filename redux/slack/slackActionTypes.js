@@ -1,0 +1,12 @@
+// export const ADD_GENERAL = "addGeneral";
+// export const ADD_HELP = 'addHelp';
+// export const ADD_REACT = 'addReact';
+// export const ADD_REDUX = 'addRedux';
+// export const ADD_ROUTER = 'addRouter';
+// export const ADD_GATSBY = 'addGatsby';
+export const TOGGLE_CHANNEL = "toggleChannel";
+export const TOGGLE_PEOPLE = "togglePeople";
+export const CLOSE_CHANNELS = "closeChannels";
+export const CLOSE_PEOPLE = "closePeople";
+export const USER_NAME = "userName";
+export const CHANNEL_NAME = "channelName";
